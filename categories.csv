@@ -1,0 +1,16 @@
+category_id,category_name,department,target_shrink_rate
+1,Cigarettes,Tobacco,0.018
+2,Vape,Tobacco,0.02
+3,Beer,Beer & Wine,0.018
+4,Wine,Beer & Wine,0.015
+5,Energy Drinks,Packaged Beverages,0.015
+6,Soft Drinks,Packaged Beverages,0.01
+7,Water,Packaged Beverages,0.008
+8,Sandwiches,Hot Food,0.018
+9,Pizza,Hot Food,0.02
+10,Coffee,Hot Food,0.01
+11,Salty Snacks,Snacks,0.01
+12,Candy,Snacks,0.01
+13,Packaged Meat,Dairy,0.018
+14,Milk & Dairy,Dairy,0.012
+15,General,General Merchandise,0.008

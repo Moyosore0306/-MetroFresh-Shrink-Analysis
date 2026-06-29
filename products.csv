@@ -1,0 +1,201 @@
+sku_id,upc,product_name,category_id,sub_category,brand,unit_cost,unit_retail_price,pack_size,is_age_restricted,theft_risk_tier,perishable_flag,shelf_life_days,vendor_id
+1,862794504252,Vape #1,2,Vape,Brand2,12.18,17.94,12,True,high,False,365,1
+2,432130248409,Sandwiches #2,8,Sandwiches,Brand3,6.87,13.2,1,False,medium,True,3,2
+3,564124222105,Vape #3,2,Vape,Brand4,6.98,9.3,24,True,high,False,365,3
+4,285685250584,Candy #4,12,Candy,Brand5,6.14,12.9,24,False,low,False,365,4
+5,125338792627,Energy Drinks #5,5,Energy Drinks,Brand6,5.47,10.29,6,False,medium,False,365,5
+6,503965955735,Coffee #6,10,Coffee,Brand7,5.49,11.57,12,False,medium,True,3,6
+7,500165915127,Cigarettes #7,1,Cigarettes,Brand8,17.56,34.25,6,True,high,False,365,7
+8,300606025728,General #8,15,General,Brand9,4.74,8.77,24,False,low,False,365,8
+9,820737922689,Pizza #9,9,Pizza,Brand10,4.03,5.56,12,False,medium,True,3,9
+10,434719420276,Wine #10,4,Wine,Brand11,17.39,34.05,1,True,high,False,365,10
+11,118192157522,Coffee #11,10,Coffee,Brand12,3.36,6.38,6,False,medium,True,3,11
+12,712365640672,Energy Drinks #12,5,Energy Drinks,Brand13,13.58,20.49,1,False,medium,False,365,12
+13,575109594780,Cigarettes #13,1,Cigarettes,Brand14,12.64,22.07,6,True,high,False,365,1
+14,415001842528,Candy #14,12,Candy,Brand15,9.14,12.73,1,False,low,False,365,2
+15,253399821081,Beer #15,3,Beer,Brand16,11.72,17.89,1,True,high,False,365,3
+16,546127375163,Energy Drinks #16,5,Energy Drinks,Brand17,2.93,5.37,24,False,medium,False,365,4
+17,275773978325,Coffee #17,10,Coffee,Brand18,2.32,4.92,1,False,medium,True,3,5
+18,324777960584,Vape #18,2,Vape,Brand19,7.14,10.6,1,True,high,False,365,6
+19,900807129963,Salty Snacks #19,11,Salty Snacks,Brand20,10.77,22.85,6,False,low,False,365,7
+20,306923088838,Packaged Meat #20,13,Packaged Meat,Brand21,4.22,9.19,1,False,medium,True,14,8
+21,222943335728,Salty Snacks #21,11,Salty Snacks,Brand22,4.09,5.45,6,False,low,False,365,9
+22,651191891207,Salty Snacks #22,11,Salty Snacks,Brand23,3.22,6.68,12,False,low,False,365,10
+23,901035056894,Soft Drinks #23,6,Soft Drinks,Brand24,4.38,5.77,6,False,medium,False,365,11
+24,851992616913,Milk & Dairy #24,14,Milk & Dairy,Brand25,4.09,5.36,12,False,medium,True,14,12
+25,700568088083,Soft Drinks #25,6,Soft Drinks,Brand1,7.14,13.29,6,False,medium,False,365,1
+26,585427809394,Water #26,7,Water,Brand2,3.69,6.5,1,False,medium,False,365,2
+27,421360550725,Salty Snacks #27,11,Salty Snacks,Brand3,3.5,7.43,1,False,low,False,365,3
+28,215534700344,Packaged Meat #28,13,Packaged Meat,Brand4,2.95,4.54,12,False,medium,True,14,4
+29,924989338418,Packaged Meat #29,13,Packaged Meat,Brand5,17.28,23.87,12,False,medium,True,14,5
+30,394135487799,Pizza #30,9,Pizza,Brand6,16.89,25.22,24,False,medium,True,3,6
+31,832714059367,Candy #31,12,Candy,Brand7,13.24,22.39,12,False,low,False,365,7
+32,416498546232,Pizza #32,9,Pizza,Brand8,2.89,4.92,12,False,medium,True,3,8
+33,757351598568,General #33,15,General,Brand9,4.37,9.39,12,False,low,False,365,9
+34,451092378846,Sandwiches #34,8,Sandwiches,Brand10,16.68,34.62,12,False,medium,True,3,10
+35,264562918926,Soft Drinks #35,6,Soft Drinks,Brand11,9.78,19.79,24,False,medium,False,365,11
+36,177047709087,Wine #36,4,Wine,Brand12,3.75,8.02,12,True,high,False,365,12
+37,670080766528,Coffee #37,10,Coffee,Brand13,7.87,11.92,12,False,medium,True,3,1
+38,701108228282,Coffee #38,10,Coffee,Brand14,12.39,26.7,1,False,medium,True,3,2
+39,408991680147,Wine #39,4,Wine,Brand15,1.64,3.37,6,True,high,False,365,3
+40,298497600214,Wine #40,4,Wine,Brand16,1.51,3.16,12,True,high,False,365,4
+41,634882232302,Water #41,7,Water,Brand17,11.4,15.18,24,False,medium,False,365,5
+42,135773003214,Water #42,7,Water,Brand18,15.59,29.46,1,False,medium,False,365,6
+43,443861597297,Beer #43,3,Beer,Brand19,1.83,3.19,24,True,high,False,365,7
+44,818313031771,Wine #44,4,Wine,Brand20,14.45,29.85,12,True,high,False,365,8
+45,232395874838,Vape #45,2,Vape,Brand21,17.32,22.6,24,True,high,False,365,9
+46,519334861499,Sandwiches #46,8,Sandwiches,Brand22,2.53,3.31,1,False,medium,True,3,10
+47,389055437530,Milk & Dairy #47,14,Milk & Dairy,Brand23,3.54,5.13,24,False,medium,True,14,11
+48,971983961094,Packaged Meat #48,13,Packaged Meat,Brand24,10.9,14.81,1,False,medium,True,14,12
+49,163543223158,Packaged Meat #49,13,Packaged Meat,Brand25,15.45,31.57,12,False,medium,True,14,1
+50,458189940485,Sandwiches #50,8,Sandwiches,Brand1,15.5,30.75,1,False,medium,True,3,2
+51,405626633275,Milk & Dairy #51,14,Milk & Dairy,Brand2,8.78,12.88,1,False,medium,True,14,3
+52,162197664920,General #52,15,General,Brand3,3.75,4.88,12,False,low,False,365,4
+53,372538095308,Coffee #53,10,Coffee,Brand4,8.08,11.59,1,False,medium,True,3,5
+54,426360230776,Water #54,7,Water,Brand5,3.05,5.53,12,False,medium,False,365,6
+55,774452471712,Milk & Dairy #55,14,Milk & Dairy,Brand6,15.94,32.55,6,False,medium,True,14,7
+56,673785196552,Candy #56,12,Candy,Brand7,12.86,27.55,12,False,low,False,365,8
+57,665206855045,Milk & Dairy #57,14,Milk & Dairy,Brand8,16.16,32.89,6,False,medium,True,14,9
+58,333947652845,Salty Snacks #58,11,Salty Snacks,Brand9,4.34,6.96,24,False,low,False,365,10
+59,965020420850,Sandwiches #59,8,Sandwiches,Brand10,11.88,22.72,1,False,medium,True,3,11
+60,314177269424,Salty Snacks #60,11,Salty Snacks,Brand11,9.33,16.45,1,False,low,False,365,12
+61,661021369580,Cigarettes #61,1,Cigarettes,Brand12,6.79,11.67,1,True,high,False,365,1
+62,272860541245,Energy Drinks #62,5,Energy Drinks,Brand13,1.71,2.37,1,False,medium,False,365,2
+63,819830995403,Energy Drinks #63,5,Energy Drinks,Brand14,5.02,7.12,1,False,medium,False,365,3
+64,617996842090,Vape #64,2,Vape,Brand15,3.42,6.71,1,True,high,False,365,4
+65,258641513491,General #65,15,General,Brand16,2.65,3.57,1,False,low,False,365,5
+66,280463272061,General #66,15,General,Brand17,17.39,37.5,6,False,low,False,365,6
+67,134230511601,Cigarettes #67,1,Cigarettes,Brand18,13.33,19.59,12,True,high,False,365,7
+68,211106100871,Pizza #68,9,Pizza,Brand19,4.77,9.91,1,False,medium,True,3,8
+69,947474836030,Vape #69,2,Vape,Brand20,2.37,5.17,1,True,high,False,365,9
+70,704722004968,Cigarettes #70,1,Cigarettes,Brand21,16.27,25.8,1,True,high,False,365,10
+71,497064115672,Coffee #71,10,Coffee,Brand22,7.16,13.15,24,False,medium,True,3,11
+72,407172117295,Wine #72,4,Wine,Brand23,9.99,20.6,24,True,high,False,365,12
+73,563665443706,Cigarettes #73,1,Cigarettes,Brand24,13.57,24.01,1,True,high,False,365,1
+74,938621469679,Cigarettes #74,1,Cigarettes,Brand25,3.41,6.04,6,True,high,False,365,2
+75,128695182686,Milk & Dairy #75,14,Milk & Dairy,Brand1,9.64,19.99,12,False,medium,True,14,3
+76,703879324534,Beer #76,3,Beer,Brand2,2.47,4.63,1,True,high,False,365,4
+77,388943091761,Beer #77,3,Beer,Brand3,4.97,9.74,24,True,high,False,365,5
+78,788125657718,Soft Drinks #78,6,Soft Drinks,Brand4,15.71,27.99,6,False,medium,False,365,6
+79,128755426900,Milk & Dairy #79,14,Milk & Dairy,Brand5,5.3,10.11,6,False,medium,True,14,7
+80,564197571565,Salty Snacks #80,11,Salty Snacks,Brand6,16.35,25.15,1,False,low,False,365,8
+81,214418651295,Candy #81,12,Candy,Brand7,14.51,25.92,6,False,low,False,365,9
+82,225986721907,General #82,15,General,Brand8,13.29,18.0,24,False,low,False,365,10
+83,196204329307,Soft Drinks #83,6,Soft Drinks,Brand9,7.19,15.65,6,False,medium,False,365,11
+84,166601363915,Salty Snacks #84,11,Salty Snacks,Brand10,2.73,5.47,6,False,low,False,365,12
+85,870000463549,Soft Drinks #85,6,Soft Drinks,Brand11,5.85,9.96,24,False,medium,False,365,1
+86,778080736471,Pizza #86,9,Pizza,Brand12,11.49,20.44,6,False,medium,True,3,2
+87,142187232792,Cigarettes #87,1,Cigarettes,Brand13,10.53,19.14,1,True,high,False,365,3
+88,204078015566,Sandwiches #88,8,Sandwiches,Brand14,1.69,3.66,24,False,medium,True,3,4
+89,656132129149,Sandwiches #89,8,Sandwiches,Brand15,8.55,18.77,1,False,medium,True,3,5
+90,270999700240,Soft Drinks #90,6,Soft Drinks,Brand16,11.58,17.48,24,False,medium,False,365,6
+91,156594299334,Pizza #91,9,Pizza,Brand17,7.75,15.19,6,False,medium,True,3,7
+92,376267330572,Cigarettes #92,1,Cigarettes,Brand18,9.87,12.94,6,True,high,False,365,8
+93,600313186073,Soft Drinks #93,6,Soft Drinks,Brand19,5.16,7.3,6,False,medium,False,365,9
+94,171548537975,Coffee #94,10,Coffee,Brand20,17.22,27.27,1,False,medium,True,3,10
+95,438827354000,Milk & Dairy #95,14,Milk & Dairy,Brand21,11.64,15.83,24,False,medium,True,14,11
+96,748692837392,Vape #96,2,Vape,Brand22,1.75,3.78,1,True,high,False,365,12
+97,508317012487,Pizza #97,9,Pizza,Brand23,12.06,18.55,6,False,medium,True,3,1
+98,825676929240,Wine #98,4,Wine,Brand24,14.06,24.99,6,True,high,False,365,2
+99,819830211985,Cigarettes #99,1,Cigarettes,Brand25,6.42,9.64,1,True,high,False,365,3
+100,736883120098,Cigarettes #100,1,Cigarettes,Brand1,0.72,1.37,6,True,high,False,365,4
+101,192511689563,Packaged Meat #101,13,Packaged Meat,Brand2,10.04,13.44,6,False,medium,True,14,5
+102,916498755189,Coffee #102,10,Coffee,Brand3,9.4,17.0,1,False,medium,True,3,6
+103,517488154090,General #103,15,General,Brand4,15.9,25.12,1,False,low,False,365,7
+104,981337943053,Cigarettes #104,1,Cigarettes,Brand5,15.07,29.76,1,True,high,False,365,8
+105,199717153781,Packaged Meat #105,13,Packaged Meat,Brand6,13.14,24.1,1,False,medium,True,14,9
+106,108868478679,Vape #106,2,Vape,Brand7,15.8,22.02,6,True,high,False,365,10
+107,742936914583,Pizza #107,9,Pizza,Brand8,1.85,2.96,6,False,medium,True,3,11
+108,301856365514,Packaged Meat #108,13,Packaged Meat,Brand9,14.52,28.46,6,False,medium,True,14,12
+109,361905588361,Sandwiches #109,8,Sandwiches,Brand10,10.79,17.28,1,False,medium,True,3,1
+110,737623057481,Pizza #110,9,Pizza,Brand11,8.58,18.39,24,False,medium,True,3,2
+111,343745299998,Energy Drinks #111,5,Energy Drinks,Brand12,2.8,5.97,1,False,medium,False,365,3
+112,977324976709,Packaged Meat #112,13,Packaged Meat,Brand13,8.37,11.37,1,False,medium,True,14,4
+113,731909897687,Milk & Dairy #113,14,Milk & Dairy,Brand14,16.25,29.32,12,False,medium,True,14,5
+114,308151005074,Cigarettes #114,1,Cigarettes,Brand15,3.85,6.07,1,True,high,False,365,6
+115,749032990268,Sandwiches #115,8,Sandwiches,Brand16,10.04,15.11,24,False,medium,True,3,7
+116,193844929647,Beer #116,3,Beer,Brand17,2.97,4.44,6,True,high,False,365,8
+117,234254754182,Energy Drinks #117,5,Energy Drinks,Brand18,9.2,19.18,6,False,medium,False,365,9
+118,348037494555,Pizza #118,9,Pizza,Brand19,8.4,16.76,12,False,medium,True,3,10
+119,315588500234,Water #119,7,Water,Brand20,14.07,20.87,6,False,medium,False,365,11
+120,442983973250,Soft Drinks #120,6,Soft Drinks,Brand21,3.41,5.55,12,False,medium,False,365,12
+121,181099360799,Candy #121,12,Candy,Brand22,17.44,24.52,12,False,low,False,365,1
+122,394461908504,Coffee #122,10,Coffee,Brand23,2.77,3.83,24,False,medium,True,3,2
+123,561534029675,Water #123,7,Water,Brand24,16.27,25.75,24,False,medium,False,365,3
+124,451108535609,Wine #124,4,Wine,Brand25,13.44,24.9,12,True,high,False,365,4
+125,732335921275,Water #125,7,Water,Brand1,3.42,7.5,12,False,medium,False,365,5
+126,266676496776,General #126,15,General,Brand2,15.75,31.65,1,False,low,False,365,6
+127,581216831768,Packaged Meat #127,13,Packaged Meat,Brand3,7.72,12.96,6,False,medium,True,14,7
+128,410546541306,Packaged Meat #128,13,Packaged Meat,Brand4,11.37,21.21,1,False,medium,True,14,8
+129,708160314570,Milk & Dairy #129,14,Milk & Dairy,Brand5,5.47,7.48,1,False,medium,True,14,9
+130,582261649839,Packaged Meat #130,13,Packaged Meat,Brand6,1.88,2.5,12,False,medium,True,14,10
+131,391493209122,Packaged Meat #131,13,Packaged Meat,Brand7,16.42,33.6,24,False,medium,True,14,11
+132,865523947651,Coffee #132,10,Coffee,Brand8,8.29,15.82,24,False,medium,True,3,12
+133,752847574737,Milk & Dairy #133,14,Milk & Dairy,Brand9,1.74,2.83,24,False,medium,True,14,1
+134,457371311927,Wine #134,4,Wine,Brand10,8.33,15.26,1,True,high,False,365,2
+135,638064148712,Coffee #135,10,Coffee,Brand11,5.64,9.35,1,False,medium,True,3,3
+136,293983073836,Wine #136,4,Wine,Brand12,2.8,4.63,24,True,high,False,365,4
+137,847579966166,Milk & Dairy #137,14,Milk & Dairy,Brand13,13.06,17.45,24,False,medium,True,14,5
+138,713105940520,Water #138,7,Water,Brand14,1.9,4.08,12,False,medium,False,365,6
+139,602092213761,Energy Drinks #139,5,Energy Drinks,Brand15,11.66,20.72,12,False,medium,False,365,7
+140,755966805270,Coffee #140,10,Coffee,Brand16,4.28,8.71,6,False,medium,True,3,8
+141,518262124319,Packaged Meat #141,13,Packaged Meat,Brand17,8.31,16.95,24,False,medium,True,14,9
+142,807148070918,Energy Drinks #142,5,Energy Drinks,Brand18,3.42,4.88,24,False,medium,False,365,10
+143,681386503073,Energy Drinks #143,5,Energy Drinks,Brand19,15.32,31.52,24,False,medium,False,365,11
+144,556932923839,Pizza #144,9,Pizza,Brand20,4.16,6.96,12,False,medium,True,3,12
+145,963219763568,Cigarettes #145,1,Cigarettes,Brand21,17.91,24.7,12,True,high,False,365,1
+146,471258868658,Beer #146,3,Beer,Brand22,4.82,7.81,6,True,high,False,365,2
+147,518711627914,Vape #147,2,Vape,Brand23,3.13,4.65,1,True,high,False,365,3
+148,721528517220,Wine #148,4,Wine,Brand24,1.19,2.13,12,True,high,False,365,4
+149,293421538297,Water #149,7,Water,Brand25,5.33,11.46,1,False,medium,False,365,5
+150,763620874954,Pizza #150,9,Pizza,Brand1,8.22,17.48,12,False,medium,True,3,6
+151,840620509008,Coffee #151,10,Coffee,Brand2,1.54,2.89,1,False,medium,True,3,7
+152,278810415423,Wine #152,4,Wine,Brand3,12.62,19.81,24,True,high,False,365,8
+153,224615535238,Energy Drinks #153,5,Energy Drinks,Brand4,2.07,2.77,24,False,medium,False,365,9
+154,137465641761,General #154,15,General,Brand5,2.05,2.81,24,False,low,False,365,10
+155,627718097253,Pizza #155,9,Pizza,Brand6,17.21,27.01,24,False,medium,True,3,11
+156,612841011069,General #156,15,General,Brand7,5.62,8.65,6,False,low,False,365,12
+157,446688864438,Vape #157,2,Vape,Brand8,11.84,20.75,6,True,high,False,365,1
+158,437380422677,Cigarettes #158,1,Cigarettes,Brand9,5.81,10.5,24,True,high,False,365,2
+159,495338218649,Coffee #159,10,Coffee,Brand10,2.3,4.47,6,False,medium,True,3,3
+160,375435951722,Beer #160,3,Beer,Brand11,2.28,3.52,12,True,high,False,365,4
+161,771679837088,Energy Drinks #161,5,Energy Drinks,Brand12,1.24,2.65,1,False,medium,False,365,5
+162,187941201747,Vape #162,2,Vape,Brand13,5.72,11.46,24,True,high,False,365,6
+163,153328480465,Candy #163,12,Candy,Brand14,15.53,27.91,24,False,low,False,365,7
+164,126309785379,Milk & Dairy #164,14,Milk & Dairy,Brand15,5.67,11.14,24,False,medium,True,14,8
+165,605869903925,Vape #165,2,Vape,Brand16,1.52,2.68,24,True,high,False,365,9
+166,172611000075,Candy #166,12,Candy,Brand17,7.58,13.91,24,False,low,False,365,10
+167,873422184105,Energy Drinks #167,5,Energy Drinks,Brand18,2.7,5.38,6,False,medium,False,365,11
+168,283236221300,Coffee #168,10,Coffee,Brand19,0.52,0.98,12,False,medium,True,3,12
+169,519202946273,Vape #169,2,Vape,Brand20,4.49,7.79,12,True,high,False,365,1
+170,191764900072,Soft Drinks #170,6,Soft Drinks,Brand21,10.32,15.32,6,False,medium,False,365,2
+171,376360496176,Cigarettes #171,1,Cigarettes,Brand22,11.75,25.29,6,True,high,False,365,3
+172,861505933733,Water #172,7,Water,Brand23,2.85,5.06,12,False,medium,False,365,4
+173,497204302343,Wine #173,4,Wine,Brand24,1.27,1.89,12,True,high,False,365,5
+174,423237270666,Packaged Meat #174,13,Packaged Meat,Brand25,9.64,16.51,6,False,medium,True,14,6
+175,282628278516,Packaged Meat #175,13,Packaged Meat,Brand1,12.72,27.44,6,False,medium,True,14,7
+176,284735576200,Soft Drinks #176,6,Soft Drinks,Brand2,15.47,31.74,24,False,medium,False,365,8
+177,937066116971,Water #177,7,Water,Brand3,1.01,1.92,6,False,medium,False,365,9
+178,582944871782,General #178,15,General,Brand4,16.57,30.15,6,False,low,False,365,10
+179,471540260105,Beer #179,3,Beer,Brand5,17.55,36.08,1,True,high,False,365,11
+180,866340285076,Beer #180,3,Beer,Brand6,8.14,14.37,6,True,high,False,365,12
+181,594799391852,Cigarettes #181,1,Cigarettes,Brand7,9.21,16.87,1,True,high,False,365,1
+182,201595951081,Vape #182,2,Vape,Brand8,13.22,27.0,6,True,high,False,365,2
+183,905403048501,Coffee #183,10,Coffee,Brand9,10.83,17.61,1,False,medium,True,3,3
+184,945073766284,Candy #184,12,Candy,Brand10,12.1,20.33,6,False,low,False,365,4
+185,957537526512,Packaged Meat #185,13,Packaged Meat,Brand11,9.99,16.41,12,False,medium,True,14,5
+186,529937032293,Water #186,7,Water,Brand12,2.77,5.55,12,False,medium,False,365,6
+187,638350975288,Energy Drinks #187,5,Energy Drinks,Brand13,13.26,20.51,12,False,medium,False,365,7
+188,376217868112,Vape #188,2,Vape,Brand14,17.07,28.04,12,True,high,False,365,8
+189,773524436818,Pizza #189,9,Pizza,Brand15,2.21,4.28,1,False,medium,True,3,9
+190,734268539998,Vape #190,2,Vape,Brand16,15.64,24.69,12,True,high,False,365,10
+191,405165311099,Coffee #191,10,Coffee,Brand17,11.49,16.87,24,False,medium,True,3,11
+192,238666276157,Beer #192,3,Beer,Brand18,4.82,6.63,1,True,high,False,365,12
+193,221656039191,Coffee #193,10,Coffee,Brand19,2.27,3.52,6,False,medium,True,3,1
+194,857402554074,Packaged Meat #194,13,Packaged Meat,Brand20,3.82,6.75,12,False,medium,True,14,2
+195,182881232858,Energy Drinks #195,5,Energy Drinks,Brand21,3.51,5.92,24,False,medium,False,365,3
+196,397696670440,Packaged Meat #196,13,Packaged Meat,Brand22,12.26,21.74,12,False,medium,True,14,4
+197,528213133921,Sandwiches #197,8,Sandwiches,Brand23,14.02,22.94,1,False,medium,True,3,5
+198,785787995935,Energy Drinks #198,5,Energy Drinks,Brand24,11.3,16.87,6,False,medium,False,365,6
+199,627093194824,Milk & Dairy #199,14,Milk & Dairy,Brand25,14.8,25.08,12,False,medium,True,14,7
+200,569314539588,Soft Drinks #200,6,Soft Drinks,Brand1,16.45,22.53,6,False,medium,False,365,8
